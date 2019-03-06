@@ -13,7 +13,7 @@ class CashRegister
     
     i = 0
     while quantity > i
-      @items << title
+      @items << items
       i+=1
     end
 
