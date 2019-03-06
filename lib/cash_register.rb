@@ -19,4 +19,6 @@ class CashRegister
        "There is no discount to apply."
   end
   end 
+  def cash_register 
+  end 
 end 
